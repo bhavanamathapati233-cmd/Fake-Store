@@ -5,7 +5,7 @@ function Products() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch('https://fakestoreapi.com/products')
+    fetch('http://localhost:8000/api/products/')
       .then((res) => res.json())
       .then((data) => {
         setProducts(data);
