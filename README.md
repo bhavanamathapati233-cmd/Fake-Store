@@ -142,13 +142,7 @@ python manage.py runserver
 
 ![Products](screenshots/products.page.png)
 
-## 📄 Product Details
 
-![Details](screenshots/details.page.png)
-
-## 🛒 Shopping Cart
-
-![Cart](screenshots/cart.page.png)
 
 ---
 
